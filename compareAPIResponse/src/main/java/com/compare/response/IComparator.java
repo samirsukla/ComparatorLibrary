@@ -7,8 +7,8 @@ import java.util.HashMap;
 public interface IComparator {
 	
 	
-	public boolean compare(URL url1, URL url2);
+	public boolean compare(String url1, String url2);
 	
-	public HashMap<String,String> getData(File file1, File file2);
+	public String[] getData(File file1, File file2);
 
 }
