@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4841" started-at="2019-04-18T07:26:36Z" finished-at="2019-04-18T07:26:40Z">
+  <suite name="Default suite" duration-ms="6640" started-at="2019-04-19T07:15:26Z" finished-at="2019-04-19T07:15:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4841" started-at="2019-04-18T07:26:36Z" finished-at="2019-04-18T07:26:40Z">
+    <test name="Default test" duration-ms="6640" started-at="2019-04-19T07:15:26Z" finished-at="2019-04-19T07:15:32Z">
       <class name="com.comparatortest.test.TestCompareResponses">
-        <test-method status="PASS" signature="compare()[pri:0, instance:com.comparatortest.test.TestCompareResponses@724af044]" name="compare" duration-ms="4807" started-at="2019-04-18T12:56:36Z" finished-at="2019-04-18T12:56:40Z">
+        <test-method status="PASS" signature="testcompare()[pri:0, instance:com.comparatortest.test.TestCompareResponses@2473d930]" name="testcompare" duration-ms="6608" started-at="2019-04-19T12:45:26Z" finished-at="2019-04-19T12:45:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- compare -->
+        </test-method> <!-- testcompare -->
       </class> <!-- com.comparatortest.test.TestCompareResponses -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
